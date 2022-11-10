@@ -1,6 +1,6 @@
 class Demo
 {
-	psvm()
+	public static void main()
 	{
 		sop("git demo");
 	}
